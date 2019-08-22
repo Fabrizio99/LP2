@@ -1,2 +1,2 @@
 # LP2
-All the LP3 course lessons .
+All the LP2 course lessons .
