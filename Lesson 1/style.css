@@ -1,0 +1,19 @@
+.list{
+    list-style: none;   /* borra las viñetas*/
+    width: 150px
+}
+.list li {
+    display: block;
+    background-color: #00ff00;
+    border: 1px solid white;
+}
+.list li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.list li a:hover{
+    text-decoration: underline;
+    color: white;
+    background-color: black;
+}
