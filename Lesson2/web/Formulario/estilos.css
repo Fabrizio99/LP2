@@ -1,0 +1,12 @@
+#btn-enviar{
+    background-color: red;
+    width: 120px;
+    height: 40px;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    border:none;
+}
+body{
+    font-family: 'Manjari', sans-serif;
+}
