@@ -76,6 +76,6 @@ body {
   <a href="#"><%=a.getNombre()%></a>
   <a href="cerrarSesion">Cerrar Sesión</a>
 </div>
-    <h1>Bienvenido <%=a.getNombre()%></h1>
+  <h2><a href="listaAlumnos">Alumnos</h2>
 </body>
 </html>
